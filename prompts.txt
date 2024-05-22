@@ -1,0 +1,12 @@
+1- Sumário: Livro sobre montagem de computadores
+o livro deve conter tópicos sobre montagem física, configuração e cuidados
+
+2 - capitulo: O capitulo irá falar sobre a pré pesquisa sobre computadores, hardwares e fabricantes, principais tecnologia
+
+3 - capitulo: O capitulo irá descrever ferramentas necessarias
+
+4 - capitulo: O capitulo deve descrever a montagem física de componentes e principais observações necessárias
+
+5 - capitulo: Capitulo que descreve sobre configuração inicial, incluindo processo de Setup e configuração de sistema operacional
+
+6 - capitulo: Este capitulo deve introduzir sobre o que fazer para manter o computador em bom estado e dar encerramento do ebook
